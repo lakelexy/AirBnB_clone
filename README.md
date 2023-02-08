@@ -28,5 +28,5 @@ And as part of the implementation of the command line interpreter coupled with t
 
 ## Author
 
-Olalekan Alao
-Olayemi Obafuwa
+- Olalekan Alao
+- Olayemi Obafuwa
