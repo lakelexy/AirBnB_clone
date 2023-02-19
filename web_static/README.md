@@ -1,19 +1,25 @@
-0x01. AirBnB clone - Web static
-Learning Objectives💡
+![1b340824-48ee-4a6e-bb79-454fac870559](https://user-images.githubusercontent.com/111001224/219969882-4b75b0f6-64ca-42a1-98f8-1ecbb12867b5.png)
+
+
+# 0x01. AirBnB clone - Web static
+
+
+## Learning Objectives💡
 What you should learn from this project:
 
-What is HTML
-How to create an HTML page
-What is a markup language
-What is the DOM
-What is an element / tag
-What is an attribute
-How does the browser load a webpage
-What is CSS
-How to add style to an element
-What is a class
-What is a selector
-How to compute CSS Specificity Value
+- What is HTML
+- How to create an HTML page
+- What is a markup language
+- What is the DOM
+- What is an element / tag
+- What is an attribute
+- How does the browser load a webpage
+- What is CSS
+- How to add style to an element
+- What is a class
+- What is a selector
+- How to compute CSS Specificity Value
+
 What are Box properties in CSS
 0. Inline styling
 Write an HTML page that displays a header and a footer.
